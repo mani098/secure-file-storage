@@ -1,0 +1,17 @@
+ body
+ {
+   background:#333333 url('../images/bg.jpg');
+   margin-top:0;
+   margin-left:0;
+   margin-right:0;
+ }
+ #header
+ {
+   background:#800000;
+   opacity:0.8;
+   height:70px;
+ }
+ #header1{ margin-left:auto;
+ width:40%;
+ }
+   
